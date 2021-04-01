@@ -1,0 +1,32 @@
+h1{
+    color:aquamarine
+  }
+  
+    
+  
+  .header{
+      background-color: cadetblue;
+      display : flex;
+      justify-content: space-evenly;
+      flex-direction: column;
+      align-items:center
+  }
+
+  .grid{
+     
+      
+      justify-content: space-evenly;
+  }
+  .item {
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+
+  }
+  .footer {
+    display: flex;
+    justify-content: flex-end;
+  }
+  p,h2{
+      text-align:center
+  }
